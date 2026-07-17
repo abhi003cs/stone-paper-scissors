@@ -2,34 +2,61 @@
 
 An interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**.
 
+## 🌐 Live Demo
+
+🔗 https://your-username.github.io/Rock-Paper-Scissors/
+
+## 📸 Screenshots
+
+### 🪨 Rock
+![Rock](images/rock.png)
+
+### 📄 Paper
+![Paper](images/paper.png)
+
+### ✂️ Scissors
+![Scissors](images/scissors.png)
+
+
 ## 🚀 Features
 
-- Play against the computer
-- Random computer moves
-- Live score tracking
-- Win/Lose/Draw message
-- Reset Game button
-- Responsive design
-- Smooth hover effects
+- 🎮 Play against the computer
+- 🤖 Random computer moves
+- 📊 Live score tracking
+- 🏆 Win/Lose/Draw message
+- 🔄 Reset Game button
+- 📱 Responsive design
+- ✨ Smooth hover effects
 
 ## 🛠 Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript 
+- JavaScript
 
 ## 📂 Project Structure
 
-```
+```text
 Rock-Paper-Scissors/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│   └── screenshot.png
 └── README.md
 ```
 
+## ▶️ How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Rock-Paper-Scissors.git
+```
+
+2. Open the project folder.
+
+3. Double-click `index.html` or open it in your preferred web browser.
 
 ## 🎯 What I Learned
 
@@ -42,12 +69,10 @@ Rock-Paper-Scissors/
 - Updating the DOM
 - CSS Flexbox
 
-## ▶️ How to Run
+## 👨‍💻 Author
 
-1. Download or clone the repository.
-2. Open `index.html` in your browser.
-3. Start playing!
+**Abhishek Ranjan**
 
 ---
 
-Made with ❤️ using HTML, CSS and JavaScript.
+Made with ❤️ using HTML, CSS, and JavaScript.
